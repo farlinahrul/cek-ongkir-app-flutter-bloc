@@ -1,0 +1,6 @@
+flutter_icons:
+  android: true
+  # ios: true
+  image_path: ""
+
+  # https://pub.dev/packages/flutter_launcher_icons
